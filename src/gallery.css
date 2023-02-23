@@ -11,6 +11,9 @@
 .pics{
     padding: 7px 0;
 }
+img:hover{
+    opacity: 0.81;
+}
 
 @media(max-width: 990px){
     .gallery{
